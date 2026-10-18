@@ -38,12 +38,12 @@ Energi -30%, uang +Rp 25.000. Ditolak jika energi kurang dari 30%.
 Energi +50% (maksimal 100%), uang -Rp 30.000 untuk biaya kos, lalu hari berganti.
 Tidur tidak memakai jatah aksi, jadi selalu bisa dipilih.
 
-### 7. Batas 3 Aksi per Hari
+### 7. 3 Aksi per Hari
 Pemain hanya bisa melakukan 3 aksi (makan, kuliah, atau kerja) per hari. Setelah
 jatah habis, pemain harus tidur.
 
 ### 8. Game Over
-Jika uang habis (0 atau kurang) setelah hari berganti, permainan langsung berakhir.
+Jika uang habis setelah hari berganti, permainan langsung berakhir.
 
 ### 9. Ending
 Jika bertahan 7 hari, ending ditentukan oleh nilai dan sisa uang:
