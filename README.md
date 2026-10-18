@@ -12,9 +12,9 @@ mendapat nilai yang baik. Game berakhir dengan game over jika uang habis.
 Jika berhasil bertahan sampai hari ke-7, ending ditentukan oleh nilai dan sisa uang pemain
 
 ## Daftar Anggota Kelompok
-1. **Muhammad Reifani Rizki** - 261401062 (Kom A dan Lab 1)
-2. **Javier Eugenius Batistuta Sinaga** - 261401011 (Kom A dan Lab 1)
-3. **Fajar Musaddad Fy**- 261401091 (Kom A dan Lab 2)
+1. **Muhammad Reifani Rizki** - 261401062 - Kom A - Lab 1
+2. **Javier Eugenius Batistuta Sinaga** - 261401011 - Kom A - Lab 1
+3. **Fajar Musaddad Fy** - 261401091 - Kom A - Lab 2
 
 ## Fitur Fitur Utama Program
 ### 1. Status Pemain
